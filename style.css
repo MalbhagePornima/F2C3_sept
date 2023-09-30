@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    background-color: #1D1D23;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.first_block {
+    width: 1728px;
+    height: 1117px;
+    background-color: #1D1D23;
+   padding-left: 30%;
+    text-align: center;
+    display: grid;
+}
+
+.heading {
+    color: #FFF;
+    padding-top: 10%;
+   padding-right: 50%;
+    align-items: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+
+#clockdiv {
+    display: flex;
+    width: 849px;
+    height: 132px;
+    color: #FFF;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    background: #34344A;
+    
+   
+}
+
+.btn {
+    width: 124px;
+    height: 52px;
+    border-radius: 26px;
+    background: #F0F757;
+    
+}
+
+.current_Time {
+   
+    width: 413px;
+    height: 66px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    background: #39393E;
+    color: #FFF;
+    width: 321.37px;
+    padding-top:3% ;
+    
+}
+
+.second_block {
+    width: 1728px;
+    height: 1117px;
+    background-color: #1D1D23;
+    display: grid;
+
+}
+.second_block>.clockdiv1{
+    color: #FFF;
+    display: flex;
+    width: 849px;
+    height: 132px;
+
+     border-radius: 20px;
+      background: #34344A;
+}
